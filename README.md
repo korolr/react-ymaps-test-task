@@ -1,3 +1,7 @@
+#### Сайт :
+
+https://react-ymaps-test-task-pefwconzep.now.sh/
+
 #### Инструкция :
 
 npm start
