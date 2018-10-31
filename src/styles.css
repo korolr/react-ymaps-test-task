@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.layer {
+  width: 100%;
+  height: 300px;
+  border: 1px solid;
+}
+
+.input-item {
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  background: #ffffff;
+  outline: none;
+  height: 34px;
+  width: 250px;
+  color: #000d1a;
+  font-size: 16px;
+  font-family: Tahoma;
+  margin-bottom: 10px;
+}
+
+.button-delete {
+  background: url(https://cdn4.iconfinder.com/data/icons/spirit20/browser-rss-edit.png);
+  position: inline-block;
+  border: 0;
+  float: right;
+  width: 20px;
+  height: 20px;
+}
